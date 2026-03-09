@@ -1,0 +1,8 @@
+{
+  "name": "Shivuk AI 2.0 Original",
+  "description": "A high-performance AI content generation SaaS with a clean cyberpunk aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
